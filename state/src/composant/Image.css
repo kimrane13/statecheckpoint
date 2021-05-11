@@ -1,0 +1,27 @@
+.img-container {
+     display:grid;
+     
+    
+}  
+
+img{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+
+}
+button{
+    
+    
+    margin-top: 20px;
+    width: 100px;
+    margin-left: 100px;
+    color: red;
+    cursor: pointer;
+    }
+    .container{
+        display: grid;
+        grid-template-columns: 1,2;
+    }
+
